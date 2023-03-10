@@ -1,0 +1,33 @@
+body
+{
+    margin: 0; 
+}
+span
+{
+    color: darkblue;
+}
+i 
+{
+    color: rgb(59, 59, 59);
+}
+.card
+{
+    width: 500px; 
+    height:fit-content; 
+    background-color:aquamarine; 
+    border-radius: 25px; 
+    border:solid  10px	#1E90FF;
+}
+.boxImage
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid blue;
+    border-radius: 50px;
+}
+.pstyle
+{
+    font-family: cosmic,sans-serif; 
+    font-size: 30px;
+}
